@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MAVLink
+build_property.ProjectDir = d:\Downloads\Part2\Group21\PX4-Autopilot\src\modules\mavlink\mavlink\pymavlink\generator\CS\
